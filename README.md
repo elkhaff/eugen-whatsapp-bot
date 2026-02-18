@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-Node.js-yellow?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/Baileys-WhiskeySockets-blue?style=for-the-badge&logo=whatsapp" />
-<img src="https://img.shields.io/badge/Status-Maintained-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 
 <p>
   <a href="#-fitur-unggulan">Fitur</a> •
