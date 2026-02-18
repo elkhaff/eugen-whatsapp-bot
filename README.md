@@ -91,7 +91,7 @@ module.exports = {
 
 ---
 
-# 💻 Panduan Pengembang
+## 💻 Panduan Pengembang
 
 Bot ini menggunakan sistem plugin dinamis. Semua fitur disimpan di dalam folder system/plugins/.
 
