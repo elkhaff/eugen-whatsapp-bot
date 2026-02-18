@@ -65,7 +65,7 @@ Sesuaikan pengaturan bot di file `config.js` sebelum menjalankan:
 module.exports = {
     // Pengaturan Owner
     owner: ["6281234567890@s.whatsapp.net"],
-    ownerName: "Nama Owner",
+    name: "Nama Owner",
     botName: "Eugen Bot",
     
     // Sesi & Sistem
