@@ -41,8 +41,8 @@ Pastikan sistem Anda telah terinstall **Node.js** (v18+) dan **FFmpeg**.
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username/eugen-bot.git](https://github.com/username/eugen-bot.git)
-    cd eugen-bot
+    git clone https://github.com/PrinzXz/eugen-whatsapp-bot.git
+    cd eugen-whatsapp-bot
     ```
 
 2.  **Install Dependencies**
