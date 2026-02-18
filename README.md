@@ -10,8 +10,8 @@
 <p>
   <a href="#-fitur-unggulan">Fitur</a> •
   <a href="#-instalasi">Instalasi</a> •
+  <a href="#-konfigurasi">Konfigurasi</a> •
   <a href="#-panduan-pengembang">Panduan Dev</a> •
-  <a href="#-konfigurasi">Konfigurasi</a>
 </p>
 
 </div>
