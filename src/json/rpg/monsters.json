@@ -1,0 +1,42 @@
+[
+  {
+    "id": "slime",
+    "name": "Slime Licin",
+    "emoji": "🟢",
+    "level": 1,
+    "stats": { "attack": 5, "defense": 2, "speed": 3, "health": 20 },
+    "rewardExp": 15
+  },
+  {
+    "id": "goblin",
+    "name": "Goblin Jahil",
+    "emoji": "👺",
+    "level": 2,
+    "stats": { "attack": 7, "defense": 3, "speed": 4, "health": 30 },
+    "rewardExp": 25
+  },
+  {
+    "id": "rockgolem",
+    "name": "Golem Batu",
+    "emoji": "🪨",
+    "level": 4,
+    "stats": { "attack": 10, "defense": 8, "speed": 2, "health": 50 },
+    "rewardExp": 40
+  },
+  {
+    "id": "firedrake",
+    "name": "Naga Api",
+    "emoji": "🔥",
+    "level": 6,
+    "stats": { "attack": 15, "defense": 6, "speed": 6, "health": 65 },
+    "rewardExp": 65
+  },
+  {
+    "id": "phantom",
+    "name": "Phantom",
+    "emoji": "👻",
+    "level": 8,
+    "stats": { "attack": 20, "defense": 5, "speed": 10, "health": 70 },
+    "rewardExp": 85
+  }
+]

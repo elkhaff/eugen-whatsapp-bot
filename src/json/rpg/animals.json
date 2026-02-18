@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cat",
+    "name": "Kucing",
+    "emoji": "🐱",
+    "class": "common",
+    "role": "attacker",
+    "baseStats": { "attack": 10, "defense": 5, "speed": 8, "health": 40 },
+    "recommendedWeaponId": "claw"
+  },
+  {
+    "id": "dog",
+    "name": "Anjing",
+    "emoji": "🐶",
+    "class": "common",
+    "role": "tank",
+    "baseStats": { "attack": 8, "defense": 10, "speed": 6, "health": 60 },
+    "recommendedWeaponId": "bite"
+  },
+  {
+    "id": "fox",
+    "name": "Rubah",
+    "emoji": "🦊",
+    "class": "uncommon",
+    "role": "speedster",
+    "baseStats": { "attack": 14, "defense": 6, "speed": 17, "health": 50 },
+    "recommendedWeaponId": "dashfang"
+  },
+  {
+    "id": "dragon",
+    "name": "Naga",
+    "emoji": "🐉",
+    "class": "legendary",
+    "role": "attacker",
+    "baseStats": { "attack": 50, "defense": 25, "speed": 20, "health": 130 },
+    "recommendedWeaponId": "firebreath"
+  },
+  {
+    "id": "unicorn",
+    "name": "Unicorn",
+    "emoji": "🦄",
+    "class": "legendary",
+    "role": "support",
+    "baseStats": { "attack": 20, "defense": 15, "speed": 22, "health": 110 },
+    "recommendedWeaponId": "magiclight"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "claw",
+    "name": "Cakar Tajam",
+    "emoji": "🗡️",
+    "bonus": { "attack": 5, "speed": 2 },
+    "suitableFor": ["attacker"]
+  },
+  {
+    "id": "bite",
+    "name": "Gigi Serigala",
+    "emoji": "🦷",
+    "bonus": { "attack": 3, "defense": 3 },
+    "suitableFor": ["tank"]
+  },
+  {
+    "id": "dashfang",
+    "name": "Taring Gesit",
+    "emoji": "💨",
+    "bonus": { "speed": 5, "attack": 2 },
+    "suitableFor": ["speedster"]
+  },
+  {
+    "id": "firebreath",
+    "name": "Napas Api",
+    "emoji": "🔥",
+    "bonus": { "attack": 10 },
+    "suitableFor": ["attacker"]
+  },
+  {
+    "id": "magiclight",
+    "name": "Cahaya Penyembuh",
+    "emoji": "✨",
+    "bonus": { "defense": 5, "health": 10 },
+    "suitableFor": ["support"]
+  }
+]

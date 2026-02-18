@@ -1,0 +1,52 @@
+{
+  "name": "eugen",
+  "version": "0.3.1",
+  "private": true,
+  "description": "WhatsApp bot using Baileys library, featuring games and other utilities.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "lint": "eslint . --fix"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "botwa"
+  ],
+  "author": "PX - Team",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.6",
+    "awesome-phonenumber": "^7.0.6",
+    "axios": "^1.13.4",
+    "baileys": "npm:@whiskeysockets/baileys",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0",
+    "chokidar": "^4.0.1",
+    "escape-string-regexp": "^5.0.0",
+    "fake-useragent": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.3",
+    "jimp": "*",
+    "js-beautify": "^1.15.4",
+    "link-preview-js": "^3.2.0",
+    "moment-timezone": "^0.6.0",
+    "multistream": "^4.1.0",
+    "node-cache": "^5.1.2",
+    "node-cron": "^3.0.3",
+    "node-fetch": "npm:undici@^6.21.0",
+    "node-webpmux": "^3.2.1",
+    "pino": "^9.5.0",
+    "qs": "^6.13.1",
+    "request": "^2.88.2",
+    "sql.js": "^1.10.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "nodemon": "^3.1.0"
+  }
+}
