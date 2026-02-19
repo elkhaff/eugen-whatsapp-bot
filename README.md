@@ -28,8 +28,7 @@ Bot ini dilengkapi dengan **Custom Logger** profesional, integrasi **AI Persona*
 
 * 🧩 **Sistem Plugin Modular**: Menambah fitur semudah membuat satu file `.js`.
 * 🎨 **Professional Logger**: Log aktivitas berwarna, rapi, dan mendukung Timezone Asia/Jakarta.
-* 🤖 **AI Integration**: Terintegrasi dengan Ollama/Gemma (Persona Eugen).
-* 📱 **Group Utilities**: Manajemen grup lengkap (Kick, Hidetag, Group Story).
+* 📱 **Group Utilities**: Manajemen grup lengkap (Kick, Hidetag).
 * 🔍 **Media Search**: Pencarian Pixiv, Channel Info (metadata), dan Tools.
 * ⚡ **Interactive Messages**: Mendukung Button, Carousel, dan Copy Code native.
 
