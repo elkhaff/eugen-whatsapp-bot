@@ -23,7 +23,7 @@
 
 **Eugen Bot** adalah bot WhatsApp berbasis Node.js yang dibangun menggunakan library `@whiskeysockets/baileys`. Project ini dirancang dengan arsitektur **modular** yang bersih, memudahkan pengembang untuk menambah fitur tanpa merusak inti sistem.
 
-Bot ini dilengkapi dengan **Custom Logger** profesional, integrasi **AI Persona** (Eugen), dan penanganan pesan interaktif (Native Flow) yang modern.
+Bot ini dilengkapi dengan **Custom Logger** profesional, dan penanganan pesan interaktif (Native Flow) yang modern.
 
 <a id="fitur"></a>
 ## ✨ Fitur Unggulan
