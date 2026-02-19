@@ -8,22 +8,24 @@
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 
 <p>
-  <a href="#-fitur-unggulan">Fitur</a> •
-  <a href="#-instalasi">Instalasi</a> •
-  <a href="#-konfigurasi">Konfigurasi</a> •
-  <a href="#-panduan-pengembang">Panduan Dev</a> •
+  <a href="#fitur">Fitur</a> •
+  <a href="#instalasi">Instalasi</a> •
+  <a href="#konfigurasi">Konfigurasi</a> •
+  <a href="#panduan">Panduan Dev</a>
 </p>
 
 </div>
 
 ---
 
+<a id="deskripsi"></a>
 ## 📖 Deskripsi
 
 **Eugen Bot** adalah bot WhatsApp berbasis Node.js yang dibangun menggunakan library `@whiskeysockets/baileys`. Project ini dirancang dengan arsitektur **modular** yang bersih, memudahkan pengembang untuk menambah fitur tanpa merusak inti sistem.
 
 Bot ini dilengkapi dengan **Custom Logger** profesional, integrasi **AI Persona** (Eugen), dan penanganan pesan interaktif (Native Flow) yang modern.
 
+<a id="fitur"></a>
 ## ✨ Fitur Unggulan
 
 * 🧩 **Sistem Plugin Modular**: Menambah fitur semudah membuat satu file `.js`.
@@ -34,13 +36,14 @@ Bot ini dilengkapi dengan **Custom Logger** profesional, integrasi **AI Persona*
 
 ---
 
+<a id="instalasi"></a>
 ## 📥 Instalasi
 
 Pastikan sistem Anda telah terinstall **Node.js** (v18+) dan **FFmpeg**.
 
 1.  **Clone Repository**
     ```bash
-    git clone https://github.com/PrinzXz/eugen-whatsapp-bot.git
+    git clone [https://github.com/PrinzXz/eugen-whatsapp-bot.git](https://github.com/PrinzXz/eugen-whatsapp-bot.git)
     cd eugen-whatsapp-bot
     ```
 
@@ -56,6 +59,7 @@ Pastikan sistem Anda telah terinstall **Node.js** (v18+) dan **FFmpeg**.
 
 ---
 
+<a id="konfigurasi"></a>
 ## ⚙️ Konfigurasi
 
 Sesuaikan pengaturan bot di file `config.js` sebelum menjalankan:
@@ -73,7 +77,7 @@ module.exports = {
     
     // API Configuration
     api: {
-        base: "https://api.example.com",
+        base: "[https://api.example.com](https://api.example.com)",
         key: "YOUR_API_KEY"
     },
     
