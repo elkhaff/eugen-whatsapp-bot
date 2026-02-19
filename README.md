@@ -74,7 +74,7 @@ module.exports = {
     
     // API Configuration
     api: {
-        base: "[https://api.example.com](https://api.example.com)",
+        base: "https://api.example.com",
         key: "YOUR_API_KEY"
     },
     
