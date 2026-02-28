@@ -24,7 +24,7 @@
     "async": "^3.2.6",
     "awesome-phonenumber": "^7.0.6",
     "axios": "^1.13.4",
-    "baileys": "npm:@whiskeysockets/baileys",
+    "baileys": "github:PrinzXz/Baileys-Fix",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0",
     "chokidar": "^4.0.1",
